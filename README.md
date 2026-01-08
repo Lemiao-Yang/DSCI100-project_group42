@@ -1,2 +1,2 @@
 # DSCI100-project_group42
-Data Science First Year Final Project
+A report exploring gaming behaviour on data from collected Pacific Laboratory for Artificial Intelligence (PLAI), a cutting-edge research group based in the Department of Computer Science at the University of British Columbia. Led by UBC researcher Frank Wood, PLAICRAFT has the aim of creating realistic NPCs. Our goal is to see how we can shape recruitment efforts to supp
